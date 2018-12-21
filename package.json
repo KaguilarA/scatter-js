@@ -23,7 +23,24 @@
   },
   "homepage": "https://github.com/KaguilarA/scatter-js#readme",
   "dependencies": {
+    "fontfaceobserver": "^2.1.0",
+    "gsap": "^2.0.2",
+    "howler": "^2.1.0",
     "pixi.js": "^4.8.4",
-    "requirejs": "^2.3.6"
+    "requirejs": "^2.3.6",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "@pixi/jsdoc-template": "^2.4.2",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-jsdoc3": "^2.0.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-standard": "^12.0.0",
+    "gulp-todo": "^7.0.0",
+    "gulp-uglify": "^3.0.1",
+    "jaguarjs-jsdoc": "^1.1.0"
   }
 }
