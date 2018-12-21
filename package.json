@@ -1,0 +1,29 @@
+{
+  "name": "scatter-js",
+  "version": "0.0.1",
+  "description": "scatter",
+  "main": "scatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaguilarA/scatter-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "games",
+    "canvas"
+  ],
+  "author": "KaguilarA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaguilarA/scatter-js/issues"
+  },
+  "homepage": "https://github.com/KaguilarA/scatter-js#readme",
+  "dependencies": {
+    "pixi.js": "^4.8.4",
+    "requirejs": "^2.3.6"
+  }
+}
